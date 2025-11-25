@@ -14,6 +14,7 @@ The marketing team lacks a data-driven method to segment customers based on thei
 -	Who are our most profitable customers?
 -	Who are our loyal customers that are at risk of churning?
 -	Which inactive customers have the potential to be reactivated?
+
 Without these insights, the company is experiencing a low Return on Ad Spend (ROAS) and a high customer churn rate.
 
 ## 3. The Goal & Solution
