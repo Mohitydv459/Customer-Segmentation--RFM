@@ -9,7 +9,7 @@ End-to-end Customer Segmentation project using SQL, Python, and Power BI. Implem
 -	Missed Revenue: No special treatment for high-value VIPs, leading to lower retention rates.
 -	Churn Blindness: Inability to identify loyal customers who have recently stopped purchasing.
   
-## 2. The Business Problem (The "Pain Point")
+## 2. The Business Problem 
 The marketing team lacks a data-driven method to segment customers based on their purchasing behavior. They cannot answer key questions such as:
 -	Who are our most profitable customers?
 -	Who are our loyal customers that are at risk of churning?
