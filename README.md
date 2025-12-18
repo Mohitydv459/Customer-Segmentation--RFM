@@ -23,3 +23,18 @@ By building an automated pipeline using SQL (Extraction), Python (Statistical Sc
 - 1.	Customer Tiers: Distinct segments like "Platinum Elite," "Loyal," and "At Risk."
 - 2.	Targeting Strategy: A clear roadmap for which customers should receive discounts vs. exclusive offers.
 - 3.	Churn Prevention: Early identification of "At Risk" customers to trigger win-back campaigns.
+
+
+## 4. Key Insights & Findings
+Based on the RFM segmentation analysis of 5878 customers, we have identified distinct behavioral patterns that directly impact revenue and growth.
+**1. The "Pareto Principle" in Action (Revenue Concentration)**
+-	Finding: The "Platinum Elite" and "Gold Member" segments make up only 30% of the total customer base, yet they contribute 78% of the total revenue.
+-	Implication: The business is highly dependent on a small group of VIPs. Losing even a few of these customers would have a disproportionate impact on monthly sales.
+**2. The "At Risk" Churn Alert**
+-	Finding: There are 85 customers identified as "At Risk".
+-	Behavior: These customers previously had high purchase frequency (Loyal) but have not made a purchase in the last 90+ days.
+-	Implication: These are not "cold leads"; they are former loyalists who are likely switching to a competitor. This represents a potential revenue loss of approximately $58.94K.
+**3. The "One-Timer" Problem**
+-	Finding: The "Silver - New" and "Bronze" segments constitute the largest volume of users [67%].
+-	Behavior: Most of these users purchased once and never returned.
+-	Implication: The current customer acquisition strategy works, but the retention strategy is failing to convert new users into repeat buyers.
